@@ -22,7 +22,21 @@ import Slideshow from 'react-native-fade-in-out-slideshow'
 **Example**
 
 ```sh
-import Slideshow from 'react-native-fade-in-out-slideshow'
+
+const items = [
+  {
+    image:
+      'https://images.pexels.com/photos/7063754/pexels-photo-7063754.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260',
+  },
+  {
+    image:
+      'https://images.pexels.com/photos/7063749/pexels-photo-7063749.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260',
+  },
+  {
+    image:
+      'https://images.pexels.com/photos/7063746/pexels-photo-7063746.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260',
+  },
+];
 
 
 const App = () => {
@@ -36,6 +50,9 @@ return (
 }
 
 ```
+
+![Alt Text](https://media1.giphy.com/media/FXNpTQvrntLsCZcpov/giphy.gif)
+
 
 
 | Props | |
