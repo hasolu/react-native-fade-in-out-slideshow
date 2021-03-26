@@ -1,0 +1,17 @@
+{
+  "main": "App.js",
+  "dependencies": {
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-native": "0.63.4"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.9.0"
+  },
+  "name": "react-native-fade-in-out-slideshow",
+  "description": "Make Slideshow for Apps",
+  "version": "1.0.0",
+  "keywords": ["slideshow","images",,"hasolu","image-slide"],
+  "author": "Halil Hasoğlu",
+  "license": "MIT"
+}
